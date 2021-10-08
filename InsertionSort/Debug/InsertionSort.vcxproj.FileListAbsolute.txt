@@ -1,2 +1,0 @@
-C:\Users\Jonathan\Documents\C++ stuff\Data Structures\InsertionSort\Debug\InsertionSort.exe
-C:\Users\Jonathan\Documents\C++ stuff\Data Structures\InsertionSort\Debug\InsertionSort.pdb

@@ -1,2 +1,0 @@
-C:\Users\Jonathan\Documents\C++ stuff\Data Structures\QuickSort\Debug\QuickSort.exe
-C:\Users\Jonathan\Documents\C++ stuff\Data Structures\QuickSort\Debug\QuickSort.pdb

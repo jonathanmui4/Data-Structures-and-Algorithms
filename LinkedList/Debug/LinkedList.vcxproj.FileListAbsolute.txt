@@ -1,2 +1,0 @@
-C:\Users\Jonathan\Documents\C++ stuff\Data Structures\LinkedList\Debug\LinkedList.exe
-C:\Users\Jonathan\Documents\C++ stuff\Data Structures\LinkedList\Debug\LinkedList.pdb

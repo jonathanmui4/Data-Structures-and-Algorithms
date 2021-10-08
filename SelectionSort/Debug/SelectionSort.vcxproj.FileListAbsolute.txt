@@ -1,2 +1,0 @@
-C:\Users\Jonathan\Documents\C++ stuff\Data Structures\SelectionSort\Debug\SelectionSort.exe
-C:\Users\Jonathan\Documents\C++ stuff\Data Structures\SelectionSort\Debug\SelectionSort.pdb
