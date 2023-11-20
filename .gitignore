@@ -6,3 +6,4 @@
 *.vcxproj.user
 **/.vs/
 **/Debug/
+**/.DS_Store
