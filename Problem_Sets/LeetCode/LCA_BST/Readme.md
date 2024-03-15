@@ -10,8 +10,8 @@ This is just a simple depth first search of all neighbouring elements (top, bott
 # Complexity
 - Time complexity:
 <!-- Add your time complexity here, e.g. $$O(n)$$ -->
-$$O(N * M)$$
+$$O(lg(n))$$
 
 - Space complexity:
 <!-- Add your space complexity here, e.g. $$O(n)$$ -->
-$$O(N * M)$$
+$$O(1)$$
