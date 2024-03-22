@@ -9,8 +9,8 @@ Convert the hours substring of the time string to an int, find the PM,AM substri
 # Complexity
 - Time complexity:
 <!-- Add your time complexity here, e.g. $$O(n)$$ -->
-Iterate through entire array twice
-$$O(2n)$$
+Just converting between datatypes
+$$O(1)$$
 
 - Space complexity:
 <!-- Add your space complexity here, e.g. $$O(n)$$ -->
