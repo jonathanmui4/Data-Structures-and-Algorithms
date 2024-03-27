@@ -9,8 +9,8 @@ First bug was in the dual pointer approach. The last pointer should be subtracte
 # Complexity
 - Time complexity:
 <!-- Add your time complexity here, e.g. $$O(n)$$ -->
-Sort once, iterate through half of array once
-$$O(n * lg(n) + n)$$
+Function called once and is independent of array length
+$$O(1)$$
 
 - Space complexity:
 <!-- Add your space complexity here, e.g. $$O(n)$$ -->
